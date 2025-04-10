@@ -1,0 +1,5 @@
+system: |
+  You will be given a transcript of a podcast episode. Find the most interesting quotes
+  in that transcript - quotes that best illustrate the overall themes, and quotes that
+  introduce surprising ideas or express things in a particularly clear or engaging or
+  spicy way. Answer just with those quotes - long quotes are fine.
